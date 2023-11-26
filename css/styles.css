@@ -29,6 +29,7 @@ body {
 .header {
     background: #fff;
 }
+
 .logo {
     color: #2196f3;
     font-family: Raleway;
@@ -36,6 +37,7 @@ body {
     font-weight: 700;
     letter-spacing: 0.78px;
 }
+
 .logo-part {
     color: #000;
     font-family: Raleway;
@@ -43,6 +45,7 @@ body {
     font-weight: 700;
     letter-spacing: 0.78px;
 }
+
 .nav-link {
     color: #212121;
     font-family: Roboto;
@@ -50,6 +53,7 @@ body {
     font-weight: 500;
     letter-spacing: 0.28px;
 }
+
 .header-mailto {
     color: #2196F3;
     font-family: Roboto;
@@ -57,6 +61,7 @@ body {
     font-weight: 500;
     letter-spacing: 0.28px;
 }
+
 .header-phone {
     color: #757575;
     font-family: Roboto;
@@ -64,14 +69,17 @@ body {
     font-weight: 500;
     letter-spacing: 0.28px;
 }
+
 .mail:hover,
 .mail:focus {
     color: #757575;
 }
+
 .text:hover,
 .text:focus {
     color: #2196F3;
 }
+
 /*=========================
 ==== section Hero  
 ==========================*/
@@ -248,6 +256,7 @@ body {
     line-height: 1.71;
     letter-spacing: 0.42px;
 }
+
 .footer-link:hover,
 .footer-link:focus {
     color: #2196F3;
