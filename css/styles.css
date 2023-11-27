@@ -220,7 +220,8 @@ ul {
     font-weight: 500;
     line-height: 1.62;
     letter-spacing: 0.48px;
-
+    border-radius: 4px;
+    background: #2196F3;
 }
 
 .portfolio-all-btn:hover,
