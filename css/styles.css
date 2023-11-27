@@ -23,6 +23,11 @@ body {
     color: currentColor;
 }
 
+.link:hover,
+.link:focus {
+    color: #2196F3;
+}
+
 /* =====================
         = header section =
     ========================= */
@@ -55,7 +60,7 @@ body {
 }
 
 .header-mailto {
-    color: #2196F3;
+    color: #757575;
     font-family: Roboto;
     font-size: 14px;
     font-weight: 500;
@@ -72,7 +77,7 @@ body {
 
 .mail:hover,
 .mail:focus {
-    color: #757575;
+    color: #2196F3;
 }
 
 .text:hover,
@@ -200,6 +205,19 @@ body {
 }
 
 .portfolio-all-btn {
+    color: #FFF;
+text-align: center;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 26px; 
+letter-spacing: 0.48px;
+    
+}
+
+.portfolio-all-btn:hover,
+.portfolio-all-btn:focus {
     border-radius: 4px;
     background: #2196F3;
 }
@@ -214,6 +232,12 @@ body {
     letter-spacing: 0.48px;
 }
 
+.portfolio-btn:hover,
+.portfolio-btn:focus {
+    border-radius: 4px;
+    background: #F5F4FA;
+}
+
 .portfolio-title {
     color: var(--secondary-txt-cl);
     font-family: var(--main-font);
@@ -223,7 +247,7 @@ body {
     letter-spacing: 1.08px;
 }
 
-.portfolio-subtitle {
+.portfolio-desc {
     color: var(--main-txt-cl);
     font-family: var(--main-font);
     font-size: 16px;
