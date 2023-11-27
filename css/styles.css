@@ -18,11 +18,19 @@ body {
     letter-spacing: 0.42px;
 }
 
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
 .link {
     text-decoration: none;
     color: currentColor;
 }
-.list
+
 .link:hover,
 .link:focus {
     color: #2196F3;
@@ -206,14 +214,13 @@ body {
 
 .portfolio-all-btn {
     color: #FFF;
-text-align: center;
-font-family: Roboto;
-font-size: 16px;
-font-style: normal;
-font-weight: 500;
-line-height: 26px; 
-letter-spacing: 0.48px;
-    
+    text-align: center;
+    font-family: var(--main-font);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.62;
+    letter-spacing: 0.48px;
+
 }
 
 .portfolio-all-btn:hover,
