@@ -252,7 +252,8 @@ ul {
     line-height: 1.62;
     letter-spacing: 0.48px;
     border-radius: 4px;
-    background-color: var(--main-bg-cl);
+    background-color: #F5F4FA;;
+
 }
 
 .portfolio-btn:hover,
