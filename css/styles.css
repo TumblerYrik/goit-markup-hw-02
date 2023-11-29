@@ -258,7 +258,8 @@ ul {
 .portfolio-btn:hover,
 .portfolio-btn:focus {
     border-radius: 4px;
-background: #F5F4FA;
+    color: #F5F4FA;
+    background-color: #2196F3;
 }
 
 .portfolio-title {
